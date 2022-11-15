@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'VSHelper_Example' do
+  pod 'VSHelper', :path => '../'
+
+  target 'VSHelper_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
