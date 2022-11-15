@@ -111,7 +111,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		07C1B2B55C9781355662D91E2D0B4BD4 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		07C1B2B55C9781355662D91E2D0B4BD4 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		0A6F4E88CDEF7967874DB99083D1A991 /* DetailCell.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = DetailCell.m; sourceTree = "<group>"; };
 		0C7FBD30C40A9A9E6C850589287F1250 /* VSFeatures.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = VSFeatures.h; sourceTree = "<group>"; };
 		0CC82C20FC75C9CBFF8793FC8841CB95 /* Pods-VSHelper_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-VSHelper_Example.release.xcconfig"; sourceTree = "<group>"; };
@@ -144,7 +144,7 @@
 		4C676F6431F76E3AD80DC74AC2CABECE /* TitleView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = TitleView.h; sourceTree = "<group>"; };
 		4C8726C113DF90908DEDE6E949E71E33 /* RewardQueryVC.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RewardQueryVC.h; sourceTree = "<group>"; };
 		500347E73B886B06FA511B5ABB2BB07C /* BtnView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BtnView.h; sourceTree = "<group>"; };
-		515A6F9FA26A83EBD6CBA542117CD5F6 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		515A6F9FA26A83EBD6CBA542117CD5F6 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		534DF9D11CCFB573D5AB85D7E01AC3C1 /* Pods-VSHelper_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-VSHelper_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		54AA4BF6C3B27641E13CBE26C0257ADF /* IntegralView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = IntegralView.m; sourceTree = "<group>"; };
 		563AEE03066FEF404A62DCCC7387117C /* MallVC.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = MallVC.h; sourceTree = "<group>"; };
@@ -158,7 +158,7 @@
 		656116C8FA5458F45D4707110C9530EC /* UIImage+Compare.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Compare.h"; path = "FBSnapshotTestCase/Categories/UIImage+Compare.h"; sourceTree = "<group>"; };
 		66536D2B7160DA913BBC2D8B6B1A5BE6 /* MallModel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = MallModel.h; sourceTree = "<group>"; };
 		6756497E8CFFE3DE8936ECD77C91B7DA /* VSHelper.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = VSHelper.modulemap; sourceTree = "<group>"; };
-		6A6F39864B6C32653E9154142C824B7C /* VSHelper.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = VSHelper.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		6A6F39864B6C32653E9154142C824B7C /* VSHelper.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = VSHelper.podspec; sourceTree = "<group>"; tabWidth = 2; };
 		6ABB3EB3CCC5BCA82F40FE8DC87BB778 /* FBSnapshotTestCasePlatform.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestCasePlatform.m; path = FBSnapshotTestCase/FBSnapshotTestCasePlatform.m; sourceTree = "<group>"; };
 		6B885413639586552D2F5AC52C0F934D /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ReplaceMe.m; path = VSHelper/Classes/ReplaceMe.m; sourceTree = "<group>"; };
 		766927A4523A78D27D80F43CF6475D1D /* Pods-VSHelper_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-VSHelper_Example-dummy.m"; sourceTree = "<group>"; };
@@ -176,7 +176,7 @@
 		98554BD4078537F22C609285B8E6391F /* Pods-VSHelper_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-VSHelper_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		99A67367E018411D614EC8536A8A1C5B /* UIApplication+StrictKeyWindow.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIApplication+StrictKeyWindow.h"; path = "FBSnapshotTestCase/Categories/UIApplication+StrictKeyWindow.h"; sourceTree = "<group>"; };
 		9AA4EB3C91A1D51D166644670FDEA32B /* VSHelper */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = VSHelper; path = VSHelper.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9DDE90B9AEDB486B02BA7949532FC173 /* MZTimerLabel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = MZTimerLabel.h; sourceTree = "<group>"; };
 		9E22F861A349D7D915B925D83B63964C /* VSHelper.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = VSHelper.release.xcconfig; sourceTree = "<group>"; };
 		A6F2D7ABEDACC4E43A3AE2E1DC122849 /* TipView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = TipView.m; sourceTree = "<group>"; };
@@ -264,7 +264,6 @@
 				E52262741F03041228BF70F3F7C783EB /* ActiveVC.h */,
 				CDB8E324673A3D8F59E76517C9E5F27E /* ActiveVC.m */,
 			);
-			name = "活动规则";
 			path = "活动规则";
 			sourceTree = "<group>";
 		};
@@ -282,7 +281,6 @@
 				8401438E1FE08CBC0318F61DF76B99C4 /* 积分商城 */,
 				D55AA2B94312607D0A136EF5BF1BE809 /* 积分明细 */,
 			);
-			name = "积分弹窗";
 			path = "积分弹窗";
 			sourceTree = "<group>";
 		};
@@ -386,7 +384,6 @@
 				2335647D44D7AF48B3851E00C29AB8B1 /* UIControl+Btnproperty.h */,
 				EB86E066C28B41D0FB7282AFD1252DF9 /* UIControl+Btnproperty.m */,
 			);
-			name = "积分商城";
 			path = "积分商城";
 			sourceTree = "<group>";
 		};
@@ -427,7 +424,6 @@
 				4C8726C113DF90908DEDE6E949E71E33 /* RewardQueryVC.h */,
 				CAA715EDFAF7BA6E13961BAE41BCD6BB /* RewardQueryVC.m */,
 			);
-			name = "奖励查询";
 			path = "奖励查询";
 			sourceTree = "<group>";
 		};
@@ -461,7 +457,6 @@
 				B69B2ECE2D2C9A3924A9231138CE0BBC /* Support Files */,
 				906402ECC4C6C5EB58DD365FD2C64E92 /* SwiftSupport */,
 			);
-			name = FBSnapshotTestCase;
 			path = FBSnapshotTestCase;
 			sourceTree = "<group>";
 		};
@@ -485,7 +480,6 @@
 				8B5A90F0D8D58EEA039A8B1ADD97D794 /* IntegralDetailVC.h */,
 				E4E4440013E2B7094B25B18D12D49971 /* IntegralDetailVC.m */,
 			);
-			name = "积分明细";
 			path = "积分明细";
 			sourceTree = "<group>";
 		};
@@ -519,7 +513,6 @@
 				FC7B053560C8F7482F5AB5D95181AE63 /* TopView.m */,
 				0F69475A8A62D735C8A32191950DD24C /* 积分弹窗 */,
 			);
-			name = "积分系统";
 			path = "积分系统";
 			sourceTree = "<group>";
 		};
@@ -1002,8 +995,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
