@@ -1,0 +1,6 @@
+framework module Pods_VSHelper_Example {
+  umbrella header "Pods-VSHelper_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

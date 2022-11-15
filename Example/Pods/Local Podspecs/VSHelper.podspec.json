@@ -1,0 +1,22 @@
+{
+  "name": "VSHelper",
+  "version": "0.1.0",
+  "summary": "A short description of VSHelper.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/TFQUP/VSHelper",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "TFQUP": "8791703+tfqup@user.noreply.gitee.com"
+  },
+  "source": {
+    "git": "https://github.com/TFQUP/VSHelper.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "VSHelper/Classes/**/*"
+}

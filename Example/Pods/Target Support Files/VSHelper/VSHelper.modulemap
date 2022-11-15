@@ -1,0 +1,6 @@
+framework module VSHelper {
+  umbrella header "VSHelper-umbrella.h"
+
+  export *
+  module * { export * }
+}
